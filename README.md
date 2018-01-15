@@ -1,3 +1,7 @@
+Clash of Clans version of tweetnacl.
+
+Welcome hsalsa16 - salsa16
+
 TweetNaCl.js
 ============
 
