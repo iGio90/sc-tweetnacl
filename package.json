@@ -1,0 +1,19 @@
+{
+  "name": "sc-tweetnacl",
+  "version": "1.0.0",
+  "description": "SC Sodium",
+  "main": "nacl-fast.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iGio90/sc-tweetnacl.git"
+  },
+  "author": "iGio90 (sc edits)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iGio90/sc-tweetnacl/issues"
+  },
+  "homepage": "https://github.com/iGio90/sc-tweetnacl#readme"
+}
